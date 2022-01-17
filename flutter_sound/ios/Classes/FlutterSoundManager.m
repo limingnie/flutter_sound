@@ -29,7 +29,8 @@
 
 #import <Foundation/Foundation.h>
 #import "FlutterSoundManager.h"
-#import <flutter_sound_core/Flauto.h>
+// #import <flutter_sound_core/Flauto.h>
+#import <soundCore/Flauto.h>
 
 
 @implementation FlutterSoundManager

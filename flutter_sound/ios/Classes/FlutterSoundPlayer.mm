@@ -23,9 +23,12 @@
 
 #import "FlutterSoundPlayer.h"
 #import <AVFoundation/AVFoundation.h>
-#import <flutter_sound_core/FlautoPlayer.h>
-#import <flutter_sound_core/FlautoTrackPlayer.h>
-#import <flutter_sound_core/FlautoTrack.h>
+// #import <flutter_sound_core/FlautoPlayer.h>
+// #import <flutter_sound_core/FlautoTrackPlayer.h>
+// #import <flutter_sound_core/FlautoTrack.h>
+#import <soundCore/FlautoPlayer.h>
+#import <soundCore/FlautoTrackPlayer.h>
+#import <soundCore/FlautoTrack.h>
 #import "FlutterSoundPlayerManager.h"
          
  
